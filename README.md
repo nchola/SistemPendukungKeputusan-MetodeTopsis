@@ -24,8 +24,6 @@ Linting & Formatting: Laravel Pint
 Installation
 
 1. Clone this repository:
-git clone https://github.com/username/repository-name.git
-cd repository-name
 
 2. Install dependencies with Composer:
 composer install
